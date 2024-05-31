@@ -1,1 +1,5 @@
-# businessdatamanagement
+Business Data Management Project
+This BDM Capstone Project is on the topic of interdisciplinary SKU sales, Inventory analysis, Customer retention rate, average sales of Louis Phillipe, A garments outlet in Faridabad, Haryana.
+The outlet sells daily products like Blazers, Shirts, T-shirts, Trousers, Pants, Jeans, Ties, Belt, Socks etc. to Luxury items like One-Piece suits and Three-Piece suits, Limited Edition Ties and Belt.
+The SKUs belonged to these groups. The data was provided for the fiscal year 2022 from April to October. During the interaction with the owner, he revealed that he was not able to manage the data of most performing SKU and least performing SKU. Further, he wanted to know his average sales per month so that he can plan more extensively to get the best results.
+I analysed the data given using excel and its functions like pivot tables, VLOOKUP’s, etc. Created graphical representations, volume, and revenue Pareto’s and did further analysis. This mid-term submission document has detailed analysis methods, proof of the originality of the data, and pictorial representations of some of my analytics.
